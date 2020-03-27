@@ -1,8 +1,8 @@
 # Factors-of-a-number
 
-#include <iostream>
+#include <iostream.h>
 
-#include <iomanip>
+#include <iomanip.h>
 
 #include <conio.h>
 
